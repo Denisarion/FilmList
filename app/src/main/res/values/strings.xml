@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Film List</string>
+
+    <string name="film1">The Godfather</string>
+    <string name="film2">The Dark Knight</string>
+    <string name="film3">Pulp Fiction</string>
+    <string name="film4">Fight Club</string>
+    <string name="film5">Forrest Gump</string>
+    <string name="film6">Inception</string>
+    <string name="film7">The Matrix</string>
+    <string name="film8">Interstellar</string>
+    <string name="film9">The Green Mile</string>
+    <string name="film10">Gladiator</string>
+</resources>

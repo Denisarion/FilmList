@@ -1,3 +1,9 @@
 package com.example.filmlist.model
 
-data class Film(val stringResourceId: Int)
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Film(
+    @StringRes val stringResourceId: Int,
+    @DrawableRes val imageResourceId: Int
+)
